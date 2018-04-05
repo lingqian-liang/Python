@@ -1,1 +1,4 @@
 ####
+This file is about the theoretical method for spread trading
+The Math behind it is combining first-hitting-ratio and autoregressive model.
+# The data is heating oil, WTI crude oil and natural gas for 1 to 6 month maturity.

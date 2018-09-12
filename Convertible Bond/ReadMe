@@ -5,3 +5,4 @@ extended BS model (convertible bond value=call option+ bond value+ earned intere
 back stock price, sell back and call back timing.
 
 ##How to use this code
+"Convertible" is the file describing the empirical results and "ZL Model" describes how to implement the ZL Model to valuate convertible bonds` prices.

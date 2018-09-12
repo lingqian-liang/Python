@@ -4,5 +4,5 @@ and that of underlying stocks under various market conditions and relationship b
 extended BS model (convertible bond value=call option+ bond value+ earned interest) to derive implied sell back stock price, call
 back stock price, sell back and call back timing.
 
-##How to use this code
+## How to use this code
 "Convertible" is the file describing the empirical results and "ZL Model" describes how to implement the ZL Model to valuate convertible bonds` prices.
